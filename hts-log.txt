@@ -1,0 +1,75 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Aug 2025 11:55:33 at https://automark.cl/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://automark.cl/ -O1 "C:\Users\jsnei\OneDrive - UNIVERSIDAD ANDRES BELLO\8 Trimestre\Ethical Hacking\Sumativa 4\Clon_automark\ClonacionSitioAutomark" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:56:04	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://automark.cl/)
+12:25:46	Warning: 	Retry after error -5 (Unable to get server's address: Host desconocido. ) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/310443069_992716815455287_7569761939074617066_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=-qRNRLlt-ScAX_fzcC7&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT8Wx7EiaT-s5oGy1SDbO5EFXbMYLcFlnc-Nzg-meu7CCg&oe=63528EDA (from https://automark.cl/)
+12:25:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/309600125_464931965689669_1578606607122115568_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=67jgMXrTkYAAX-cpVD_&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_aVecq5S7T4vS4Es7_I06q2g9TKoFPqFyT0eJ7wkzLUQ&oe=63534D22 (from https://automark.cl/)
+12:25:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/309050674_3244724209176938_4154953011287215727_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=rdLNFFlBuhoAX9-879T&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT9wfnLBTNZ9Oub8PkGctQvqw172rkA0RoAllbqDWoV2Cw&oe=63518868 (from https://automark.cl/)
+12:25:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/308240753_495581832073665_1839673215137734650_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=xH-s7Q9BMtoAX_VmSPs&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT-oAdYUh5gdzY6jtWRdEiOaobwz95w1INigjdofBn0Csw&oe=63523F4B (from https://automark.cl/)
+12:25:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/305567005_407966568110617_8089013277439258965_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=mOdq87Lo7k0AX-jg5VW&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_NP2lf6q3-4ePIQ7Hs6WsVO5wssbnHnsdVCQ3kKdRpDg&oe=635298B6 (from https://automark.cl/)
+12:25:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/304223124_141162501943972_2128500584439621447_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=_YKyegrYSmYAX_eAyhd&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_vUre4lEvOaPxNhX2D31KwShgQIsljU9T3pjTIqqWKiQ&oe=63533CBC (from https://automark.cl/)
+12:25:49	Error: 	"Bad Request" (400) at link https://automark.cl/wp-admin/admin-ajax.php (from https://automark.cl/)
+12:25:49	Warning: 	Moved Permanently for https://automark.cl/?p=19
+12:25:49	Warning: 	File has moved from https://automark.cl/?p=19 to https://automark.cl/ventas/
+12:28:21	Warning: 	Moved Permanently for https://automark.cl/?p=6774
+12:28:21	Warning: 	File has moved from https://automark.cl/?p=6774 to https://automark.cl/taller/
+12:28:21	Warning: 	Moved Permanently for https://automark.cl/?p=5885
+12:28:21	Warning: 	File has moved from https://automark.cl/?p=5885 to https://automark.cl/garage/
+12:29:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/310443069_992716815455287_7569761939074617066_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=-qRNRLlt-ScAX_fzcC7&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT8Wx7EiaT-s5oGy1SDbO5EFXbMYLcFlnc-Nzg-meu7CCg&oe=63528EDA (from https://automark.cl/)
+12:29:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/309600125_464931965689669_1578606607122115568_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=67jgMXrTkYAAX-cpVD_&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_aVecq5S7T4vS4Es7_I06q2g9TKoFPqFyT0eJ7wkzLUQ&oe=63534D22 (from https://automark.cl/)
+12:29:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/309050674_3244724209176938_4154953011287215727_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=rdLNFFlBuhoAX9-879T&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT9wfnLBTNZ9Oub8PkGctQvqw172rkA0RoAllbqDWoV2Cw&oe=63518868 (from https://automark.cl/)
+12:29:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/308240753_495581832073665_1839673215137734650_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=xH-s7Q9BMtoAX_VmSPs&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT-oAdYUh5gdzY6jtWRdEiOaobwz95w1INigjdofBn0Csw&oe=63523F4B (from https://automark.cl/)
+12:29:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/305567005_407966568110617_8089013277439258965_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=mOdq87Lo7k0AX-jg5VW&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_NP2lf6q3-4ePIQ7Hs6WsVO5wssbnHnsdVCQ3kKdRpDg&oe=635298B6 (from https://automark.cl/)
+12:29:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/304223124_141162501943972_2128500584439621447_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=_YKyegrYSmYAX_eAyhd&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_vUre4lEvOaPxNhX2D31KwShgQIsljU9T3pjTIqqWKiQ&oe=63533CBC (from https://automark.cl/)
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8580
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8580 to https://automark.cl/can-am-spyder-2010/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8577
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8577 to https://automark.cl/chevrolet-c10-1962/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=7864
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=7864 to https://automark.cl/chevrolet-el-camino-ss-1967/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8533
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8533 to https://automark.cl/ford-explorer-eddie-bauer-1994/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8562
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8562 to https://automark.cl/ford-f150-lariat-sport-2022/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8584
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8584 to https://automark.cl/ford-mustang-1973/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8443
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8443 to https://automark.cl/ford-mustang-289/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8546
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8546 to https://automark.cl/harley-davidson-fat-bob-2019/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8573
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8573 to https://automark.cl/harley-davidson-sportster-s-2022/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8588
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8588 to https://automark.cl/jeep-wrangler-2000/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8029
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8029 to https://automark.cl/land-rover-serie-3-stage-one-1981/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8555
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8555 to https://automark.cl/mercedes-benz-unimog-426-casa-rodante-motoriz-1974/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8582
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8582 to https://automark.cl/motomorini-x-cape-2025/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=8571
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=8571 to https://automark.cl/toyota-4-runner-2001/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=7921
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=7921 to https://automark.cl/volkswagen-karmann-mobil-safari-1984/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=6830
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=6830 to https://automark.cl/ford-bronco-1978/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=6588
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=6588 to https://automark.cl/ford-bronco-1986-2/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=693
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=693 to https://automark.cl/ford-maverick-250-1976/
+12:29:23	Warning: 	Moved Permanently for https://automark.cl/?p=2195
+12:29:23	Warning: 	File has moved from https://automark.cl/?p=2195 to https://automark.cl/ford-mustang-gt-1968/
+12:29:23	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/310443069_992716815455287_7569761939074617066_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=-qRNRLlt-ScAX_fzcC7&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT8Wx7EiaT-s5oGy1SDbO5EFXbMYLcFlnc-Nzg-meu7CCg&oe=63528EDA (from https://automark.cl/)
+12:29:23	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/309600125_464931965689669_1578606607122115568_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=67jgMXrTkYAAX-cpVD_&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_aVecq5S7T4vS4Es7_I06q2g9TKoFPqFyT0eJ7wkzLUQ&oe=63534D22 (from https://automark.cl/)
+12:29:23	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/309050674_3244724209176938_4154953011287215727_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=rdLNFFlBuhoAX9-879T&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT9wfnLBTNZ9Oub8PkGctQvqw172rkA0RoAllbqDWoV2Cw&oe=63518868 (from https://automark.cl/)
+12:29:23	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/308240753_495581832073665_1839673215137734650_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=xH-s7Q9BMtoAX_VmSPs&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT-oAdYUh5gdzY6jtWRdEiOaobwz95w1INigjdofBn0Csw&oe=63523F4B (from https://automark.cl/)
+12:29:23	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/305567005_407966568110617_8089013277439258965_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=mOdq87Lo7k0AX-jg5VW&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_NP2lf6q3-4ePIQ7Hs6WsVO5wssbnHnsdVCQ3kKdRpDg&oe=635298B6 (from https://automark.cl/)
+12:29:23	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://scontent-ort2-2.cdninstagram.com/v/t51.29350-15/304223124_141162501943972_2128500584439621447_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=_YKyegrYSmYAX_eAyhd&_nc_ht=scontent-ort2-2.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT_vUre4lEvOaPxNhX2D31KwShgQIsljU9T3pjTIqqWKiQ&oe=63533CBC (from https://automark.cl/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 minutes 50 seconds : 1165 links scanned, 1122 files written (220575251 bytes overall) [219337612 bytes received at 108048 bytes/sec], 2498982 bytes transferred using HTTP compression in 61 files, ratio 30%, 5.2 requests per connection
+(8 errors, 56 warnings, 0 messages)
